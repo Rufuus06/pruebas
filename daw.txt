@@ -11,3 +11,7 @@ M08 Desplegament d'aplicacions web
 M09 Disseny d'interfícies web
 M12 Projecte Desenvolupament d'aplicacions web
 M15 Desenvolupament web en entorn mòbil
+<<<<<<< HEAD
+=======
+ivan ola
+>>>>>>> afdb4342b1bf5353c68a8f4239470ba923f556f1
